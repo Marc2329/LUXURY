@@ -1,1 +1,6 @@
-m
+"[FBAN/Orca-Android;FBAV/272.0.0.50.125;FBBV/216845461;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/airtel;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca;FBDV/vivo Y85A;FBSV/13;nullFBCA/armeabi-v7a:armeabi;]",
+"[FBAN/Orca-Android;FBAV/303.0.0.30.122;FBBV/269803905;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Vodafone Idea;FBMF/ZEBRA;FBBD/zebra;FBPN/com.facebook.orca;FBDV/TC57;FBSV/13;nullFBCA/armeabi-v7a:armeabi;]",
+"[FBAN/FB4A;FBAV/34.0.0.0.242;FBBV/10009614;FBDM/{density=1.5,width=768,height=736};FBLC/en_US;FBCR/SoftBank;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X609;FBSV/9.7.1;FBCA/arm64-v8a:;]",
+"[FBAN/Orca-Android;FBAV/352.0.0.20.117;FBBV/310414731;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/airtel;FBMF/TOSCiDO;FBBD/TOSCiDO;FBPN/com.facebook.orca;FBDV/N10-EEA;FBSV/9;nullFBCA/armeabi-v7a:armeabi;]",
+"[FBAN/Orca-Android;FBAV/309.0.0.47.119;FBBV/281818581;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Aircel;FBMF/T-Mobile;FBBD/T-Mobile;FBPN/com.facebook.orca;FBDV/REVVL V+ 5G;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]",
+"[FBAN/Orca-Android;FBAV/398.0.0.21.105;FBBV/420612354;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Jio;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.orca;FBDV/Infinix X627;FBSV/15;nullFBCA/armeabi-v7a:armeabi;]",
